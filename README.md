@@ -1,7 +1,3 @@
-Certainly! Here’s a detailed README-style explanation for the provided code:
-
----
-
 # **Buildings with an Ocean View**
 
 This solution identifies which buildings in a given array have a view of the ocean. A building has a view of the ocean if:
